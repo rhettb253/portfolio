@@ -1,10 +1,12 @@
 # My Portfolio!
 
-Number and name of feature: 
+Netlify Deploy: https://rhettfolio.netlify.app
 
-Estimate of time needed to complete: 
+Number and name of feature: trello board
 
-Start time: 
+Estimate of time needed to complete: 4 hours
+
+Start time: 10:15
 
 Finish time: 
 
