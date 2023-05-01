@@ -11,14 +11,15 @@
   },
   "projects": [
     {
-      "title": "Animal Shelter",
-      "startDate": "2020",
-      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+      "title": "Mallory Layne Homes",
+      "startDate": "2023",
+      "description": "Web application for a real estate agent. This is currently being used to retrieve contact info and other details about prospective clients.",
       "images": [
-        "images/portfolio/animal-shelter/p1.jpg",
-        "images/portfolio/animal-shelter/p2.jpg"
+        "images/portfolio/resite/MLH-home.png",
+        "images/portfolio/resite/MLH-buy:sell.png",
+        "images/portfolio/resite/MLH-form.png"
       ],
-      "url": "",
+      "url": "https://mallorylaynehomes.netlify.app/",
       "technologies": [
         {
           "class": "devicon-angularjs-plain",
@@ -35,14 +36,18 @@
       ]
     },
     {
-      "title": "Photography",
-      "startDate": "2018",
-      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+      "title": "Just Juice",
+      "startDate": "2023",
+      "description": "200 level final project. Using JS we manipulatd the DOM based off of user inputs and we got some super cool interactive features throughout the site.",
       "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg"
+        "images/portfolio/justjuice/home-top.png",
+        "images/portfolio/justjuice/home-bottom.png",
+        "images/portfolio/justjuice/menu-top.png",
+        "images/portfolio/justjuice/menu-middle.png",
+        "images/portfolio/justjuice/menu-bottom.png",
+        "images/portfolio/justjuice/cyo.png"
       ],
-      "url": "https://github.com",
+      "url": "https://rhettb253.github.io/just-juice/",
       "technologies": [
         {
           "class": "devicon-react-original",
@@ -55,12 +60,12 @@
       ]
     },
     {
-      "title": "3D Object Viewer",
-      "startDate": "2015",
-      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+      "title": "301 Project",
+      "startDate": "2023",
+      "description": "300 level project.",
       "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
+        "images/portfolio/301project/logo.png",
+        "images/portfolio/301project/logo.png"
       ],
       "url": "https://github.com",
       "technologies": [
