@@ -22,16 +22,20 @@
       "url": "https://mallorylaynehomes.netlify.app/",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-react-plain",
+          "name": "React"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
         }
       ]
     },
@@ -50,12 +54,16 @@
       "url": "https://rhettb253.github.io/just-juice/",
       "technologies": [
         {
-          "class": "devicon-react-original",
-          "name": "React"
-        },
-        {
           "class": "devicon-javascript-plain",
           "name": "JavaScript"
+        },
+        {
+          "class": "devicon-jquery-plain",
+          "name": "jQuery"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
         }
       ]
     },
@@ -86,37 +94,44 @@
   ],
   "experience": [
     {
-      "company": "DefOpenSource",
-      "title": "Front-End Developer",
-      "years": "10.2019 - present",
+      "company": "Mallory Layne Homes",
+      "title": "Freelance Developer",
+      "years": "05.2023 - 07.2023",
       "mainTech": [
-        "Angular 8/9/10"
+        "React"
       ],
       "technologies": [
-        "REST API",
-        "RxJS",
-        "JavaScript",
         "Bootstrap",
-        "MDBootstrap",
-        "EF Core",
-        ".NET Core",
-        "SignalR",
-        "Angular Material"
+        "JavaScript",
+        "CSS",
+        "HTML"
       ]
     },
     {
-      "company": "Serros Solutions",
-      "title": "Intern",
-      "years": "01.2018 - 09.2019",
+      "company": "CodeFellows",
+      "title": "Front-End Dev Student",
+      "years": "02.2023 - present",
       "mainTech": [
-        "Angular 7/8"
+        "JavaScript"
       ],
       "technologies": [
-        "RxJS",
-        "Django",
-        "PHP",
-        "JavaScript",
-        "DHTMLX Gantt"
+        "REST API",
+        "React",
+        "Bootstrap",
+        "MDBootstrap",
+        "CSS"
+      ]
+    },
+    {
+      "company": "Codecademy",
+      "title": "Code Foundations Student",
+      "years": "11.2022 - 02.2023",
+      "mainTech": [
+        "CSS"
+      ],
+      "technologies": [
+        "HTML",
+        "JavaScript"
       ]
     }
   ]
