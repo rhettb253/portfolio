@@ -3,6 +3,7 @@ import { Icon } from "@iconify/react";
 import javascriptIcon from "@iconify/icons-logos/javascript";
 import reactIcon from "@iconify/icons-logos/react";
 import bootstrapIcon from "@iconify/icons-logos/bootstrap";
+import expressIcon from "@iconify/icons-logos/express";
 
 class About extends Component {
   render() {
@@ -41,6 +42,10 @@ class About extends Component {
                   <Icon
                     icon={bootstrapIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                  />
+                  <Icon
+                    icon={expressIcon}
+                    style={{ fontSize: "200%", margin: "9% 5% 0 5%" }}
                   />
                 </span>
               </div>
