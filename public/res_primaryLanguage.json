@@ -42,7 +42,7 @@
     {
       "title": "Just Juice",
       "startDate": "2023",
-      "description": "200 level final project. Using JS we manipulatd the DOM based off of user inputs and we got some super cool interactive features throughout the site.",
+      "description": "Fundamentals class final project. Using JS we manipulatd the DOM based off of user inputs. We also added some super cool interactive features throughout the site.",
       "images": [
         "images/portfolio/justjuice/home-top.png",
         "images/portfolio/justjuice/home-bottom.png",
@@ -68,26 +68,26 @@
       ]
     },
     {
-      "title": "301 Project",
+      "title": "City Explorer",
       "startDate": "2023",
-      "description": "300 level project.",
+      "description": "Class project showcasing my ability to use Express to create a server and make multiple external api calls to retrieve up to date and relevant information.",
       "images": [
-        "images/portfolio/301project/logo.png",
-        "images/portfolio/301project/logo.png"
+        "images/portfolio/cityexplorer/cityExp2.png",
+        "images/portfolio/cityexplorer/cityExp3.png"
       ],
       "url": "https://github.com",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-express-original",
+          "name": "Express"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-react-plain",
+          "name": "React"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
         }
       ]
     }
@@ -109,16 +109,16 @@
     },
     {
       "company": "CodeFellows",
-      "title": "Front-End Dev Student",
+      "title": "Full-Stack Development Student",
       "years": "02.2023 - present",
       "mainTech": [
         "JavaScript"
       ],
       "technologies": [
+        "Express",
         "REST API",
         "React",
         "Bootstrap",
-        "MDBootstrap",
         "CSS"
       ]
     },
