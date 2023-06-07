@@ -88,11 +88,12 @@ class About extends Component {
                     {about}
                     <br />
                     <br />
-                    <p>email: rhettbeardemphl@hotmail.com</p>
                   </div>
                 </div>
               </div>
             </div>
+            <hr />
+            <h2 className="about-email">email: rhettbeardemphl@hotmail.com</h2>
           </div>
         </div>
       </section>
