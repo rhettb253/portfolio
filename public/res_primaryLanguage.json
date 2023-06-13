@@ -40,9 +40,34 @@
       ]
     },
     {
+      "title": "Beardemphl & Bassett Books",
+      "startDate": "2023",
+      "description": "Web application that utilizes Auth0 and MongoDB to allow users to sign into their profile and store a list of their favorite books.",
+      "images": [
+        "images/portfolio/bbbooks/bbb-home.png",
+        "images/portfolio/bbbooks/bbb-book.png",
+        "images/portfolio/bbbooks/bbb-add.png"
+      ],
+      "url": "https://beardemphl-and-bassett-books.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-express-original",
+          "name": "Express"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        }
+      ]
+    },
+    {
       "title": "Just Juice",
       "startDate": "2023",
-      "description": "Fundamentals class final project. Using JS we manipulatd the DOM based off of user inputs. We also added some super cool interactive features throughout the site.",
+      "description": "We used vanilla JS to manipulate the DOM based off of user inputs. We also added some cool interactive features throughout the site.",
       "images": [
         "images/portfolio/justjuice/home-top.png",
         "images/portfolio/justjuice/home-bottom.png",
@@ -70,7 +95,7 @@
     {
       "title": "City Explorer",
       "startDate": "2023",
-      "description": "Class project showcasing my ability to use Express to create a server and make multiple external api calls to retrieve up to date and relevant information.",
+      "description": "In this application I used Express to create a server and make multiple external api calls to retrieve up to date and relevant weather and movie information.",
       "images": [
         "images/portfolio/cityexplorer/cityExp2.png",
         "images/portfolio/cityexplorer/cityExp3.png"
@@ -96,7 +121,7 @@
     {
       "company": "Mallory Layne Homes",
       "title": "Freelance Developer",
-      "years": "05.2023 - 07.2023",
+      "years": "06.2023 - 07.2023",
       "mainTech": [
         "React"
       ],
@@ -119,6 +144,7 @@
         "REST API",
         "React",
         "Bootstrap",
+        "Auth0",
         "CSS"
       ]
     },
