@@ -11,7 +11,7 @@
   },
   "projects": [
     {
-      "title": "Mallory Layne Homes",
+      "title": "Mallory Layne Homes (Ongoing)",
       "startDate": "2023",
       "description": "Web application for a real estate agent. This is currently being used to retrieve contact info and other details about prospective clients.",
       "images": [
@@ -36,6 +36,39 @@
         {
           "class": "devicon-css3-plain",
           "name": "CSS"
+        }
+      ]
+    },
+    {
+      "title": "Go Chef Yourself",
+      "startDate": "2023",
+      "description": "Web application that allows you to search for meal ideas based on listing a few items you may already have. It utilizes Auth0 and MongoDB to allow users to sign into their profile to save and edit their favorite recipes.",
+      "images": [
+        "images/portfolio/gochefyourself/CY-home.png",
+        "images/portfolio/gochefyourself/CY-search.png",
+        "images/portfolio/gochefyourself/CY-searchResults.png",
+        "images/portfolio/gochefyourself/CY-viewRecipe.png",
+        "images/portfolio/gochefyourself/CY-viewRecipe2.png",
+        "images/portfolio/gochefyourself/CY-login.png",
+        "images/portfolio/gochefyourself/CY-editRecipe.png"
+      ],
+      "url": "https://go-chef-yourself.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        },
+        {
+          "class": "devicon-express-original",
+          "name": "Express"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
         }
       ]
     },
@@ -121,7 +154,7 @@
     {
       "company": "Mallory Layne Homes",
       "title": "Freelance Developer",
-      "years": "06.2023 - 07.2023",
+      "years": "07.2023 - current",
       "mainTech": [
         "React"
       ],
@@ -135,13 +168,16 @@
     {
       "company": "CodeFellows",
       "title": "Full-Stack Development Student",
-      "years": "02.2023 - present",
+      "years": "02.2023 - current",
       "mainTech": [
         "JavaScript"
       ],
       "technologies": [
+        "Jest",
         "Express",
         "REST API",
+        "SQL",
+        "NoSQL",
         "React",
         "Bootstrap",
         "Auth0",
