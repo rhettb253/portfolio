@@ -59,6 +59,11 @@
           "level": "85"
         },
         {
+          "name": "Sequelize",
+          "class": "devicon-sequelize-plain",
+          "level": "85"
+        },
+        {
           "name": "Jest",
           "class": "devicon-jest-plain",
           "level": "90"
