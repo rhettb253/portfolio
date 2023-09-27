@@ -42,7 +42,7 @@
     {
       "title": "Go Chef Yourself",
       "startDate": "2023",
-      "description": "Web application that allows you to search for meal ideas based on listing a few items you may already have. It utilizes Auth0 and MongoDB to allow users to sign into their profile to save and edit their favorite recipes.",
+      "description": "Unfortunately, the funding to the api needed for this application to run has been terminated.  This web application allowed you to search for meal ideas based on listing a few items you may already have. It utilizes Auth0 and MongoDB to allow users to sign into their profile to save and edit their favorite recipes.",
       "images": [
         "images/portfolio/gochefyourself/CY-home.png",
         "images/portfolio/gochefyourself/CY-search.png",
