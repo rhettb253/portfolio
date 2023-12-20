@@ -89,6 +89,11 @@
           "level": "85"
         },
         {
+          "name": "Socket.IO",
+          "class": "devicon-socketio-original",
+          "level": "85"
+        },
+        {
           "name": "AWS",
           "class": "devicon-amazonwebservices-original",
           "level": "85"
