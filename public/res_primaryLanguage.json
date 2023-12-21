@@ -11,40 +11,73 @@
   },
   "projects": [
     {
-      "title": "Mallory Layne Homes (Ongoing)",
+      "title": "Mallory Layne Homes",
       "startDate": "2023",
-      "description": "Web application for a real estate agent. This is currently being used to retrieve contact info and other details about prospective clients.",
+      "description": "Web application for a real estate agent. This is currently being used to connect with prospective clients and showcase the realitors experience and values.",
       "images": [
-        "images/portfolio/resite/MLH-home.png",
-        "images/portfolio/resite/MLH-buy:sell.png",
-        "images/portfolio/resite/MLH-form.png"
+        "images/portfolio/resite/home.png",
+        "images/portfolio/resite/connected.png",
+        "images/portfolio/resite/prev.png",
+        "images/portfolio/resite/about.png"
       ],
       "url": "https://mallorylaynehomes.netlify.app/",
       "technologies": [
         {
-          "class": "devicon-react-plain",
-          "name": "React"
+          "class": "devicon-css3-plain",
+          "name": "CSS"
         },
         {
           "class": "devicon-javascript-plain",
           "name": "JavaScript"
         },
         {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
           "class": "devicon-bootstrap-plain",
           "name": "Bootstrap"
         },
         {
-          "class": "devicon-css3-plain",
-          "name": "CSS"
+          "class": "devicon-nodejs-plain",
+          "name": "Nodemailer"
+        }
+      ]
+    },
+    {
+      "title": "Event Spot",
+      "startDate": "2023",
+      "description": "We used React Native to create this mobile application. This app is designed to get people together at in-person events, like eventbrite or meetup. We used two of Google's serverless services: Firebase (Auth) and Firestore (Database), which were used to create user profiles and events.",
+      "images": [
+        "images/portfolio/eventspot/es-home.png",
+        "images/portfolio/eventspot/es-search.png",
+        "images/portfolio/eventspot/es-create.png",
+        "images/portfolio/eventspot/es-profile.png",
+        "images/portfolio/eventspot/editProfile.png",
+        "images/portfolio/eventspot/es-signIn.png"
+      ],
+      "url": "https://github.com/The-Megasauruses/event-spot-front-end",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "React Native"
+        },
+        {
+          "class": "devicon-googlecloud-plain",
+          "name": "Google Cloud"
         }
       ]
     },
     {
       "title": "Go Chef Yourself",
       "startDate": "2023",
-      "description": "Unfortunately, the funding to the api needed for this application to run has been terminated.  This web application allowed you to search for meal ideas based on listing a few items you may already have. It utilizes Auth0 and MongoDB to allow users to sign into their profile to save and edit their favorite recipes.",
+      "description": "This web application allows you to obtain meal ideas based on listing a few items that you want to use. We utilized Auth0 and MongoDB to allow users to sign into their profile to save and edit their favorite recipes. The funding for the api used in this application may be outdated.",
       "images": [
-        "images/portfolio/gochefyourself/CY-home.png",
+        "images/portfolio/gochefyourself/CY-home2.png",
         "images/portfolio/gochefyourself/CY-search.png",
         "images/portfolio/gochefyourself/CY-searchResults.png",
         "images/portfolio/gochefyourself/CY-viewRecipe.png",
@@ -55,27 +88,31 @@
       "url": "https://go-chef-yourself.netlify.app/",
       "technologies": [
         {
-          "class": "devicon-mongodb-plain",
-          "name": "MongoDB"
-        },
-        {
-          "class": "devicon-express-original",
-          "name": "Express"
-        },
-        {
           "class": "devicon-react-plain",
           "name": "React"
         },
         {
           "class": "devicon-bootstrap-plain",
           "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node"
+        },
+        {
+          "class": "devicon-express-original",
+          "name": "Express"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
         }
       ]
     },
     {
-      "title": "Beardemphl & Bassett Books",
+      "title": "B&B Books",
       "startDate": "2023",
-      "description": "Web application that utilizes Auth0 and MongoDB to allow users to sign into their profile and store a list of their favorite books.",
+      "description": "My first MERN web application I used the MERN stack in collaboration with Auth0 to allow users to sign into their profile and store a list of their favorite books.",
       "images": [
         "images/portfolio/bbbooks/bbb-home.png",
         "images/portfolio/bbbooks/bbb-book.png",
@@ -84,23 +121,31 @@
       "url": "https://beardemphl-and-bassett-books.netlify.app/",
       "technologies": [
         {
-          "class": "devicon-express-original",
-          "name": "Express"
-        },
-        {
           "class": "devicon-react-plain",
           "name": "React"
         },
         {
           "class": "devicon-bootstrap-plain",
           "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node"
+        },
+        {
+          "class": "devicon-express-original",
+          "name": "Express"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
         }
       ]
     },
     {
       "title": "Just Juice",
       "startDate": "2023",
-      "description": "We used vanilla JS to manipulate the DOM based off of user inputs. We also added some cool interactive features throughout the site.",
+      "description": "In my first website we used vanilla JS to manipulate the DOM based off of user inputs. We also employed local storage and added some cool interactive features throughout the site.",
       "images": [
         "images/portfolio/justjuice/home-top.png",
         "images/portfolio/justjuice/home-bottom.png",
@@ -124,43 +169,22 @@
           "name": "CSS"
         }
       ]
-    },
-    {
-      "title": "City Explorer",
-      "startDate": "2023",
-      "description": "In this application I used Express to create a server and make multiple external api calls to retrieve up to date and relevant weather and movie information.",
-      "images": [
-        "images/portfolio/cityexplorer/cityExp2.png",
-        "images/portfolio/cityexplorer/cityExp3.png"
-      ],
-      "url": "https://finditinthecity.netlify.app/",
-      "technologies": [
-        {
-          "class": "devicon-express-original",
-          "name": "Express"
-        },
-        {
-          "class": "devicon-react-plain",
-          "name": "React"
-        },
-        {
-          "class": "devicon-bootstrap-plain",
-          "name": "Bootstrap"
-        }
-      ]
     }
   ],
   "experience": [
     {
       "company": "Mallory Layne Homes",
       "title": "Freelance Developer",
-      "years": "07.2023 - current",
+      "years": "11.2023 - 01.2024",
       "mainTech": [
         "React"
       ],
       "technologies": [
-        "Bootstrap",
         "JavaScript",
+        "Bootstrap",
+        "Node",
+        "Express",
+        "Nodemailer",
         "CSS",
         "HTML"
       ]
@@ -168,20 +192,28 @@
     {
       "company": "CodeFellows",
       "title": "Full-Stack Development Student",
-      "years": "02.2023 - current",
+      "years": "02.2023 - 12.2023",
       "mainTech": [
         "JavaScript"
       ],
       "technologies": [
-        "Jest",
+        "JavaScript",
+        "CSS",
+        "React",
+        "React Native",
+        "Bootstrap",
+        "Mui",
+        "Node",
         "Express",
         "REST API",
-        "SQL",
-        "NoSQL",
-        "React",
-        "Bootstrap",
+        "Relational DB",
+        "Non-Relational DB",
+        "Cloud Services",
+        "Sockets",
         "Auth0",
-        "CSS"
+        "Jest",
+        "Netlify",
+        "Render"
       ]
     },
     {
@@ -193,7 +225,7 @@
       ],
       "technologies": [
         "HTML",
-        "JavaScript"
+        "CSS"
       ]
     }
   ]
