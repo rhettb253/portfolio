@@ -13,7 +13,7 @@
     {
       "title": "Mallory Layne Homes",
       "startDate": "2023",
-      "description": "Web application for a real estate agent. This is currently being used to connect with prospective clients and showcase the realitors experience and values.",
+      "description": "Web application for a real estate agent. This is currently being used to connect with prospective clients and showcase the realtors experience and values.",
       "images": [
         "images/portfolio/resite/home.png",
         "images/portfolio/resite/connected.png",
@@ -181,6 +181,7 @@
       ],
       "technologies": [
         "JavaScript",
+        "React",
         "Bootstrap",
         "Node",
         "Express",
