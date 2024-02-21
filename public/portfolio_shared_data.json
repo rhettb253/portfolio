@@ -24,18 +24,28 @@
           "level": "95"
         },
         {
-          "name": "CSS 3",
+          "name": "CSS",
           "class": "devicon-css3-plain",
           "level": "95"
         },
         {
-          "name": "HTML 5",
+          "name": "HTML",
           "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "SQL",
+          "class": "devicon-azuresqldatabase-plain",
           "level": "95"
         },
         {
           "name": "Bash",
           "class": "devicon-bash-plain",
+          "level": "95"
+        },
+        {
+          "name": "Markdown",
+          "class": "devicon-markdown-original",
           "level": "95"
         },
         {
@@ -76,6 +86,11 @@
         {
           "name": "MongoDB",
           "class": "devicon-mongodb-plain",
+          "level": "85"
+        },
+        {
+          "name": "SQLite",
+          "class": "devicon-sqlite-plain",
           "level": "85"
         },
         {
